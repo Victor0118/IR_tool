@@ -9,3 +9,6 @@
 * svm_rank: (Reference: https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html)
 
 * RankLib: (Reference: https://sourceforge.net/p/lemur/wiki/Home/)
+
+* trec_eval: [github](https://github.com/usnistgov/trec_eval) and detailed [Readme](https://www-nlpir.nist.gov/projects/trecvid/trecvid.tools/trec_eval_video/A.README)
+
